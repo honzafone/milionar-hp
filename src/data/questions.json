@@ -1,0 +1,309 @@
+{
+    "easy": [
+      {
+        "question": "Pozice ve famfrpálu jsou chytač, brankář, střelec a ...?",
+        "answers": ["vyrážeč", "přerážeč", "dorážeč", "odrážeč"],
+        "correct": 3
+      },
+      {
+        "question": "Herec, který ztvárnil Sevveruse Snapea, Rickman, má křestní jméno?",
+        "answers": ["Alan", "Charlie", "Jake", "Walden"],
+        "correct": 0
+      },
+      {
+        "question": "Nebezpečný strom, zasazený na školních pozemcích, se jmenuje?",
+        "answers": ["Vrba drtička", "Vrba mlátička", "Vrba klátička", "Vrba"],
+        "correct": 1
+      },
+      {
+        "question": "Kterému sportu se věnoval Duddley Dursley?",
+        "answers": ["baletu", "boxu", "basketbalu", "badmintonu"],
+        "correct": 1
+      },
+      {
+        "question": "Motto Bradavic Draco Dormiens Nunquam Titillandus by se dalo přeložit jako: Nikdy nelehtej spícího...?",
+        "answers": ["draka", "hipogryfa", "mozkomora", "kentaura"],
+        "correct": 0
+      },
+      {
+        "question": "Populární kouzelnická hra na košťatech se jmenuje:",
+        "answers": ["Farumpál", "Fofrpál", "Famfrpál", "Fimfárumpál"],
+        "correct": 2
+      },
+      {
+        "question": "Slavná Slovenská parodie 4. filmu Dano Drevo má podtitul: Turnaj...?",
+        "answers": ["Petra Nagya", "Pala Habery", "Mira Šmajdy", "Makyho Žbirku"],
+        "correct": 3
+      },
+      {
+        "question": "Dabing Severuse Snapea obstaral Aleš ...?",
+        "answers": ["Vycházka", "Docházka", "Procházka", "Obcházka"],
+        "correct": 2
+      },
+      {
+        "question": "Kdo je to Griphook?",
+        "answers": ["kentaur", "skřet", "domácí skřítek", "kouzelník"],
+        "correct": 1
+      },
+      {
+        "question": "Proti které koleji hrál Harry svůj první zápas ve Famfrpálu?",
+        "answers": ["Nebelvír", "Zmijozel", "Havraspár", "Mrzimor"],
+        "correct": 1
+      },
+      {
+        "question": "Výraz 'hop šup prášok' se objevil ve Slovenské verzi překladu Harryho Pottera. Co s ním má kouzelník udělat, aby ho správně použil? ",
+        "answers": ["Šňupnout", "Ochutit ovesnou kaši", "Nakrmit sovu", "Hodit do krbu"],
+        "correct": 3
+      },
+      {
+        "question": "Kolik filmů bylo v rámci série Harry Potter natočeno?",
+        "answers": ["5", "6", "7", "8"],
+        "correct": 3
+      },
+      {
+        "question": "Jak zní prostřední jméno Hermiony Grangerové?",
+        "answers": ["Jane", "Jean", "Joanne", "Jessica"],
+        "correct": 2
+      },
+      {
+        "question": "Které jméno nepatří jednomu z bratrů Peverellů ze známé pohádky z Bajek Barda Beedleyho?",
+        "answers": ["Cadmus", "Antioch", "Ignotus", "Amycus"],
+        "correct": 3
+      },
+      {
+        "question": "Kolik osob na košťatech musí být na hřišti, aby mohl proběhnout zápas ve famfrpálu?",
+        "answers": ["12", "13", "14", "15"],
+        "correct": 3
+      },
+      {
+        "question": "Herec, který ztvárnil Harryho Pottera, se jmenuje Daniel...?",
+        "answers": ["Radcliffe", "Bluefliffe", "Greencliffe", "Yellowcliffe"],
+        "correct": 0
+      },
+      {
+        "question": "Co vyrábí firma, ve které pracuje Vernon Dursley?",
+        "answers": ["Sekačky", "Štípačky", "Vrtačky", "Korytnačky"],
+        "correct": 2
+      },
+      {
+        "question": "Jméno Hagridova psa zní?",
+        "answers": ["Špičák", "Řezák", "Tesák", "Stolička"],
+        "correct": 2
+      },
+      {
+        "question": "Které z následujících zvířat nenajdeme na erbu Bradavic?",
+        "answers": ["Lva", "Havrana", "Jezevce", "Hada"],
+        "correct": 1
+      },
+      {
+        "question": "Jak zní celé jméno ducha Nebelvíru, Skorobezhlavého Nicka?",
+        "answers": ["Sir Nicholas De Porpy-Minington", "Sir Nicholas De Mimsy-Porpington", "Sir Cadogan", "Sir Caged Dragon"],
+        "correct": 1
+      }
+    ],
+    "medium": [
+      {
+        "question": "Která hra ze série Harry Potter od EA má jako jediná český dabing?",
+        "answers": ["Ohnivý pohár", "Princ dvojí krve", "Relikvie smrti part1", "Fénixův řád"],
+        "correct": 3
+      },
+      {
+        "question": "Kolik bodů pro Nebelvír udělil v 1. díle na konci ěkolního roku Brumbál, čímž zajistil, že tato kolej získala školní pohár?",
+        "answers": ["150", "160", "170", "180"],
+        "correct": 2
+      },
+      {
+        "question": "Kdo dal Harrymu jeho první létající koště?",
+        "answers": ["Albus Brumbál", "Sirius Black", "profesorka McGonagalová", "Ron Weasley"],
+        "correct": 1
+      },
+      {
+        "question": "Kolikrát Harry prohrál famfrpálový zápas v rámci školního poháru?",
+        "answers": ["jednou", "dvakrát", "třikrát", "čtyřikrát"],
+        "correct": 1
+      },
+      {
+        "question": "Kolika let se dožil Albus Brumbál?",
+        "answers": ["112", "115", "118", "121"],
+        "correct": 1
+      },
+      {
+        "question": "Který šampion Turnaje tří kouzelníků vstupoval do bludiště jako poslední?",
+        "answers": ["Harry Potter", "Viktor Krum", "Cedrik Diggory", "Fleur Delacour"],
+        "correct": 3
+      },
+      {
+        "question": "Do které koleje chodil Michael Corner?",
+        "answers": ["Nebelvír", "Zmijozel", "Mrzimor", "Havraspár"],
+        "correct": 3
+      },
+      {
+        "question": "Kolik viteálů bylo zničeno mečem Godrika Nebelvíra?",
+        "answers": ["1", "2", "3", "4"],
+        "correct": 2
+      },
+      {
+        "question": "Ron svou první hůlku zdědil, druhou mu koupili rodiče. Obě měly stejné jádro. Jaké?",
+        "answers": ["žíni z jednorožce", "blánu z dračího srdce", "fénixovo pero", "vlas víly"],
+        "correct": 0
+      },
+      {
+        "question": "Jaké zvíře bylo patronem hostinského u Prasečí hlavy, bratra Albuse Brumbála, Abertfortha?",
+        "answers": ["býk", "prase", "kozel", "beran"],
+        "correct": 2
+      },
+      {
+        "question": "Jakou vojenskou hodnost měl pan Fubster, který hlídal psy tetě Marge, když byla na návštěvě v domě číslo 4 na Zobí ulici?",
+        "answers": ["Major", "Podplukovník", "Plukovník", "Generál"],
+        "correct": 2
+      },
+      {
+        "question": "Jakým skóre skončilo finále MS ve famfrpálu mezi Irskem a Bulharskem?",
+        "answers": ["170 : 150", "170 : 160", "180 : 170", "190 : 180"],
+        "correct": 1
+      },
+      {
+        "question": "Co se nachází v posledním 5. patře nemocnice sv. Munga?",
+        "answers": ["Nic, nemá 5 pater", "Oddělení otrav lektvary a bylinami", "Oddělení kouzelných infekcí", "Bistro pro náštěvníky a prodejna"],
+        "correct": 3
+      },
+      {
+        "question": "Podle učebnice 'Fantastická zvířata a kde je najít' existují tři druhy trolů. Který z uvedených tedy neexistuje?",
+        "answers": ["Horský", "Lesní", "Říční", "Skalní"],
+        "correct": 3
+      },
+      {
+        "question": "Kdo vstřelil první gól v Harryho debutovém zápase ve famfrpálu proti Zmijozelu?",
+        "answers": ["Marcus Flint", "Angelina Johnsonová", "Katie Bellová", "Alice Spinnetová"],
+        "correct": 1
+      },
+      {
+        "question": "Rozhodčí Hasan Mustafa, který soudcoval finále MS ve famfrpálu, pocházel z...?",
+        "answers": ["Egypta", "Maroka", "Alžírska", "Tuniska"],
+        "correct": 0
+      },
+      {
+        "question": "Kolik kapitol má první kniha Harryho Pottera?",
+        "answers": ["15", "16", "17", "18"],
+        "correct": 2
+      },
+      {
+        "question": "Do které koleje chodil student se jménem Terence Higgs?",
+        "answers": ["Nebelvíru", "Havraspáru", "Zmijozelu", "Mrzimoru"],
+        "correct": 2
+      },
+      {
+        "question": "Na kterém patře Nemocnice sv. Munga se nacházelo oddělení Zranění způsobená kouzelnými tvory, kde ležel pan Weasley?",
+        "answers": ["v 1. patře", "ve 2. patře", "ve 3. patře", "v 5. patře"],
+        "correct": 0
+      },
+      {
+        "question": "Jakou barvu měl svetr, který dostal Harry ke svým prvním Vánocům v Bradavicích od paní Weasleyové?",
+        "answers": ["Červenou", "Zelenou", "Modrou", "Hnědou"],
+        "correct": 1
+      }
+    ],
+    "hard": [
+      {
+        "question": "Populární kouzelnická kapela Sudičky se objevila i v Bradavicích. Jak se jmenuje v anglickém originále?",
+        "answers": ["Weird Sisters", "Sisters of The Lost", "Twisted Sisters", "The Magicohead"],
+        "correct": 0
+      },
+      {
+        "question": "Co bylo příčinou Ronova neúspěchu v prvním termínu zkoušky z přemisťování?",
+        "answers": ["Nepřemístil nehet na ruce", "Nepřemístil část vlasů", "Nepřemístil část obočí", "Nepřemístil sebou plášť"],
+        "correct": 2
+      },
+      {
+        "question": "Odkud podle učebnice 'Fantastická zvířata a kde je najít?' pocházejí Akromantule?",
+        "answers": ["z Bornea", "ze Sumatry", "z Madagaskaru", "z Bruneje"],
+        "correct": 0
+      },
+      {
+        "question": "K mláďatům kterého zvířete byly v prvním díle při popisu Hagrida přirovnány jeho nohy?",
+        "answers": ["hroší mláďata", "sloní mláďata", "delfíní mláďata", "velrybí mláďata"],
+        "correct": 2
+      },
+      {
+        "question": "Který film Harryho Pottera má na ČSFD nejhorší hodnocení?",
+        "answers": ["Harry Potter a Tajemná komnata", "Harry Potter a Ohnivý pohár", "Harry Potter a Fénixův řád", "Harry Potter a Relikvie smrti část 1"],
+        "correct": 3
+      },
+      {
+        "question": "Kolik režisérů se vystřídalo v rámci série Harry Potter?",
+        "answers": ["2", "3", "4", "5"],
+        "correct": 2
+      },
+      {
+        "question": "Dudley Dursley se během příběhu stal boxerským šampionem meziškolního přeboru dorostu. Ve které části Anglie to bylo?",
+        "answers": ["Jihovýchodní", "Severozápadní", "Jihozápadní", "Severovýchodní"],
+        "correct": 0
+      },
+      {
+        "question": "Petr Pettigrew se dokázal vyhnout Azkabanu i díky tomu, že si uříznul prst na pravé ruce. Který prst mu na ní chyběl?",
+        "answers": ["ukazováček", "prostředníček", "prsteníček", "malíček"],
+        "correct": 0
+      },
+      {
+        "question": "V ročníkových zkoučkách ve 3. ročníku dostali Harry a jeho spolužáci za úkol přeměnit zvíře na čajovou konvici. Jaké zvíře to bylo?",
+        "answers": ["želva", "ještěrka", "krysa", "vrána"],
+        "correct": 0
+      },
+      {
+        "question": "Na které pole postoupil v šachové partii Ron, aby se obětoval a zajistil vítězství svým kamarádům?",
+        "answers": ["A3", "C3", "F3", "H3"],
+        "correct": 3
+      },
+      {
+        "question": "Do které koleje byla ve 4. díle zařazena Natálie McDonaldová?",
+        "answers": ["Mrzimoru", "Nebelvíru", "Havraspáru", "Zmijozelu"],
+        "correct": 1
+      },
+      {
+        "question": "Který z následujících tvorů není Ministerstvem kouzel hodnocen jako 'X - nudný', ale jako 'XX - neškodný/lze ochočit'?",
+        "answers": ["Ghúl", "Hrabák", "Tlustočerv", "Trpaslík"],
+        "correct": 3
+      },
+      {
+        "question": "Kolik knih Zlatoslava Lockharta si museli studenti pořídit podle seznamu ze školy?",
+        "answers": ["5", "6", "7", "8"],
+        "correct": 2
+      },
+      {
+        "question": "Z jakého materiálu je klepadlo ve tvaru orla, které je na dveřích do společenské místnosti Havraspáru?",
+        "answers": ["železo", "stříbro", "bronz", "zlato"],
+        "correct": 2
+      },
+      {
+        "question": "Kolik let letos v červenci oslavila autorka Harryho Pottera, J.K. Rowling? (2024)",
+        "answers": ["55", "57", "59", "61"],
+        "correct": 2
+      },
+      {
+        "question": "Kolik valentýnek od studentek obdržel Zlatoslav Lockhart?",
+        "answers": ["36", "46", "56", "66"],
+        "correct": 1
+      },
+      {
+        "question": "Jakou klasifikaci nebezpečnosti dostal podle knihy Fantastická zvířata a kde je najít pták Fénix?",
+        "answers": ["XX", "XXX", "XXXX", "XXXXX"],
+        "correct": 2
+      },
+      {
+        "question": "Pouze jeden film ze série Harryho Pottera nabízí potitulkovou scénu, je to...?",
+        "answers": ["Kámen mudrců", "Tajemná komnata", "Ohnivý pohár", "Fénixův řád"],
+        "correct": 1
+      },
+      {
+        "question": "Poslední, sedmý díl, Harryho Pottera byl poprvé vydán v roce...?",
+        "answers": ["2006", "2007", "2008", "2009"],
+        "correct": 1
+      },
+      {
+        "question": "Který film ze série Harry Potter je nejdelší?",
+        "answers": ["Tajemná komnata", "Fénixův řád", "Relikvie smrti part1", "Relikvie smrti part2"],
+        "correct": 0
+      }
+    ]
+  }
+  
