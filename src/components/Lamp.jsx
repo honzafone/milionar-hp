@@ -32,4 +32,5 @@ const Lamp = ({ position, scale }) => {
   );
 };
 
+
 export default Lamp;
