@@ -4,6 +4,10 @@ import questionsData from "../data/questions.json";
 import AddPlayer from "./AddPlayer";
 import ImageCard from "../components/ImageCard";
 
+import Lamp from "../components/Lamp";
+import Deathly_hallows from "../components/deathly_hallows";
+import Nimbus from "../components/Nimbus";
+
 const shuffleArray = (array) => array.sort(() => Math.random() - 0.5);
 
 const Game = () => {
@@ -81,11 +85,21 @@ const Game = () => {
   }
 
   return (
-    <section className="h-screen flex flex-col justify-center items-center relative">
+    <section className="h-screen flex flex-col justify-center items-center relative z-10">
+        <div className="absolute top-0 left-0 right-0">
+        <Lamp position={[-4.2, -1, 0]} scale={3} />
+      </div>
+        {/* <div className="absolute top-0 left-0 right-0">
+        <Deathly_hallows position={[4, 2, 0]} scale={0.2} />
+      </div> */}
+      <div className="absolute top-0 left-0 right-0">
+        <Nimbus position={[0, -3.1, 0]} scale={1} />
+       </div>
+
       {showAddPlayer ? (
-        <AddPlayer score={score} onAddPlayer={handleAddPlayer} />
+        <AddPlayer score={score} onAddPlayer={handleAddPlayer}  />
       ) : (
-        <>
+        <div className="flex flex-col items-center justify-center z-20">
           <div className="absolute bottom-4 right-4 bg-blue-950 text-yellow-500 px-4 py-2 rounded-lg shadow-lg text-lg">
             Správné odpovědi: {score}
           </div>
@@ -121,7 +135,7 @@ const Game = () => {
               Další otázka
             </button>
           )}
-        </>
+        </div>
       )}
     </section>
   );

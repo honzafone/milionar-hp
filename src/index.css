@@ -44,6 +44,7 @@ body {
   background-image: url(/assets/USH_Wands_VB.jpg);
   font-family: 'General Sans', sans-serif;
   color: white;
+  z-index: 0;
 }
 
 @layer utilities {

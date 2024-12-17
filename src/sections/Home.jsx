@@ -1,6 +1,8 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom'; // Importujeme hook pro navigaci
 
+import Nimbus from '../components/Nimbus';
+
 const Home = () => {
   const navigate = useNavigate(); // Hook pro přesměrování
 
@@ -10,6 +12,9 @@ const Home = () => {
 
   return (
     <div className="h-screen flex flex-col justify-center items-center bg-gradient-to-r from-gray-900/60 via-gray-800/80 to-gray-900/60 text-white">
+       <div className="absolute top-0 left-0 right-0">
+        <Nimbus position={[0, -3, 0]} scale={1.5} />
+       </div>
       {/* Obrázek */}
       <img
         src="assets/milionaire-tr.png"
@@ -31,7 +36,7 @@ const Home = () => {
       {/* Tlačítko */}
       <button
         onClick={handleStartQuiz}
-        className="mt-6 px-6 py-3  bg-yellow-500 text-blue-950 font-semibold rounded-lg hover:bg-yellow-400 hover:shadow-lg transition duration-300 ease-in-out hover:scale-105 hover:shadow-yellow-700 cursor-pointer"
+        className="mt-6 px-6 py-3  bg-yellow-500 text-blue-950 font-semibold rounded-lg hover:bg-yellow-400 hover:shadow-lg transition duration-300 ease-in-out hover:scale-105 hover:shadow-yellow-700 cursor-pointer z-50"
       >
         Začít kvíz
       </button>
