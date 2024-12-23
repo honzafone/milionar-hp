@@ -30,7 +30,7 @@ const AddPlayer = ({ score }) => {
   };
 
   return (
-    <div className="h-screen flex flex-col justify-center items-center ">
+    <div className="h-screen flex flex-col justify-center items-center z-20">
         <div className="flex flex-col justify-center items-center h-auto p-6 bg-black-200 rounded-xl">
       <h2 className="text-xl text-yellow-500">Zadejte vaše jméno</h2>
       {error && <p className="text-red-500">{error}</p>}
