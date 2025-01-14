@@ -1,5 +1,6 @@
 import React from "react";
 import Lamp from "../components/Lamp";
+import Footer from "./Footer";
 
 const About = () => {
   return (
@@ -37,6 +38,9 @@ const About = () => {
           Návrat na hlavní stránku
         </a>
       </div>
+      <div className="absolute bottom-0 left-0 right-0 flex justify-center py-3 bg-black-100/20">
+      <Footer />
+    </div>
     </div>
   );
 };
